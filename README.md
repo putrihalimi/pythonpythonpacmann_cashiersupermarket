@@ -1,0 +1,2 @@
+# pythonpythonpacmann_cashiersupermarket
+ cashier friendly
